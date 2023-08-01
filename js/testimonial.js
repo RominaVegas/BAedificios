@@ -1,7 +1,7 @@
 
 const testimonials = document.querySelectorAll('.testimonial');
 let index = 0;
-const duration = 5000;
+const duration = 8000;
 
 
 function showNextTestimonial() {
