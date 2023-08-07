@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $email = $_POST["email"];
   $mensaje = $_POST["mensaje"];
 
-  $destinatario = "@gmail.com"; 
+  $destinatario = "info@baedificios.com.arg"; 
 
   $asunto = "Formulario de contacto desde mi sitio web";
   $cuerpoMensaje = "Nombre: " . $nombre . "\n";
