@@ -759,7 +759,7 @@ p {
 
   .image-text {
     position: absolute;
-    top: 35%;
+    top:30%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -792,8 +792,6 @@ p {
   }
 
 
-
-
   /*servicios mq*/
 
   .galeria-grid-img {
@@ -803,7 +801,6 @@ p {
     justify-items: center;
 
   }
-
 
 
 
