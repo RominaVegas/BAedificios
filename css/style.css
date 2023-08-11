@@ -202,7 +202,7 @@ header {
 }
 
 .card-body p {
-  text-align: justify;
+  text-align: left;
   margin-bottom: 10px;
   padding: 5px;
 
@@ -438,7 +438,7 @@ header {
 .text-services {
   flex: 1;
   padding: 20px;
-  text-align: justify;
+  text-align:left;
   margin: 20px;
 
 }
@@ -454,8 +454,9 @@ header {
 
 .text-services p {
   font-size: 1em;
-  word-spacing: 10px;
+  word-spacing: 2px;
   padding: 20px;
+  text-align: left;
 }
 
 
@@ -563,7 +564,7 @@ header {
   flex: 1;
   padding: 20px;
   margin: 30px;
-  text-align: justify;
+  text-align:left;
 }
 
 .contacto-info h2 {
@@ -657,12 +658,6 @@ form button:hover {
   margin-right: 5px;
 }
 
-p {
-  
-  word-spacing:normal;
-  line-height: 1.3;
-
-}
 
 
 
