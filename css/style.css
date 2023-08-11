@@ -202,21 +202,25 @@ header {
 }
 
 .card-body p {
-  text-align: left;
-  margin-bottom: 10px;
-  padding: 5px;
+  
+  margin-bottom: 15px;
+  padding: 20px;
+text-align:left;
+
 
 }
+
 
 .card-footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 15px;
+  margin-top: 15px;
 
 }
 
 .card-footer button {
+
   width: 150px;
   background: #000;
   color: #eae8e8;
@@ -225,7 +229,7 @@ header {
   margin-bottom: 10px;
   cursor: pointer;
   transition: 0.2s;
-  margin-top: 5px;
+
 
 }
 
