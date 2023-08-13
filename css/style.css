@@ -205,7 +205,7 @@ header {
   
   margin-bottom: 15px;
   padding: 20px;
-text-align:left;
+  text-align:left;
 
 
 }
@@ -262,7 +262,7 @@ text-align:left;
 .about-content p {
   font-size: 20px;
   margin-bottom: 20px;
-  text-align: justify;
+  text-align: left;
 }
 
 
