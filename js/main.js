@@ -28,6 +28,6 @@ buttons.forEach((button, index) => {
 setInterval(() => {
   currentSlide = (currentSlide + 1) % slides.length;
   showSlide(currentSlide);
-}, 9000);
+}, 5000);
   
   
