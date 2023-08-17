@@ -827,8 +827,10 @@ form button:hover {
 
   .image-services {
     flex: 1;
-    max-width: 100%;
+    width: 300px;
     height: 300px;
+    margin-left: 60px;
+ 
 
 
   }
