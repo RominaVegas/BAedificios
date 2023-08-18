@@ -435,15 +435,18 @@ header {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: center;
   background: white;
   border: 1px solid #c5aeae;
+  padding: 50px;
 
 }
 
 .image-services {
   flex: 1;
-  max-width: 350px;
-  height: 350px;
+  max-width: 280px;
+  height: 280px;
+
 
 
 
@@ -453,7 +456,7 @@ header {
   flex: 1;
   padding: 20px;
   text-align:left;
-  margin: 20px;
+
 
 }
 
@@ -827,9 +830,9 @@ form button:hover {
 
   .image-services {
     flex: 1;
-    width: 300px;
-    height: 300px;
-    margin-left: 60px;
+    width: 280px;
+    height: 280px;
+    margin-left: 10px;
  
 
 
